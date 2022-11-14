@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwafunmilayo Samuel
 - 👀 I’m interested in data analysis for academic research and business insights
-- 🌱 I’m currently learning Python and R for data analysis
+- 🌱 I’m currently a master's student in rural development, learning Python and R for data analysis
 - 📫 How to reach me linkedin.com/in/oluwafunmilayo-samuel-282a1a1a5
 
 <!---
